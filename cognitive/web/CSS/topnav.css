@@ -1,0 +1,12 @@
+.fa{
+    color: white;
+}
+.fa-facebook:hover{
+    color: rgb(98, 98, 175);
+}
+.fa-instagram:hover{
+    color: crimson;
+}
+.fa-twitter:hover{
+    color: darkcyan;
+}
